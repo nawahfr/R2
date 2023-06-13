@@ -1,0 +1,14 @@
+> [Objects365 Dataset](https://openaccess.thecvf.com/content_ICCV_2019/papers/Shao_Objects365_A_Large-Scale_High-Quality_Dataset_for_Object_Detection_ICCV_2019_paper.pdf)
+
+<!-- [DATASET] -->
+
+## Abstract
+
+<!-- [ABSTRACT] -->
+
+#### Objects365 Dataset V1
+
+[Objects365 Dataset V1](http://www.objects365.org/overview.html) is a brand new dataset,
+designed to spur object detection research with a focus on diverse objects in the Wild.
+It has 365 object categories over 600K training images. More than 10 million, high-quality bounding boxes are manually labeled through a three-step, carefully designed annotation pipeline. It is the largest object detection dataset (with full annotation) so far and establishes a more challenging benchmark for the community. Objects365 can serve as a better feature learning dataset for localization-sensitive tasks like object detection
+and semantic segmentation.
